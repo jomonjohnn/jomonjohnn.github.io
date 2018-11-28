@@ -17,7 +17,7 @@ baseurl: ""
 title: Jomon John 
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Welcome
 
 # --- Navigation bar options --- #
 
@@ -26,7 +26,6 @@ navbar-links:
   Blog: ""
   Projects: ""
   Resources:
-    - GitHub Pages: "https://pages.github.com/"
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -92,7 +91,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
+  facebook: true
   google: false
   linkedin: true
 
